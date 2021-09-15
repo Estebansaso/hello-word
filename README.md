@@ -1,5 +1,6 @@
-soy #codigo
-codigo
-i am esteban
+#include <stdio.h>
+int main(){
 
-esta es mi primera vez aqui :)
+  printf("hola mundo");
+return 0;
+}
