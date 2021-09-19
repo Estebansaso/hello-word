@@ -1,7 +1,7 @@
 soy #codigo
   hello-world
   
-  soy nuevo aqui 
-  
+  me gusta aprender de todo un poco
+  :(
   :)
- 
+  
